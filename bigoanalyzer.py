@@ -166,8 +166,8 @@ def runFile():
     assign_tuple = assignValues()
     min_val = int(assign_tuple[0])
     max_val = int(assign_tuple[1])
-    print(min_val)
-    print(max_val)
+    if(min_val < 1):
+	min_val = 1
     step = (max_val-min_val)/50
     X,Y=countTime(min_val,max_val,step)
     fig = Figure(figsize = (6, 5), dpi = 100)
