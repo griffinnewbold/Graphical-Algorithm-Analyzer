@@ -16,7 +16,7 @@ import time
 import warnings
 
 
-os.chdir("/Users/griffin/Downloads")
+#os.chdir("/Users/griffin/Downloads")
 warnings.filterwarnings('ignore')
 
 root = Tk()
