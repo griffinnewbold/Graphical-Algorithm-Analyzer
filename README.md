@@ -1,6 +1,8 @@
 # devfest2022
 Team DevOps2025's submission for Columbia University's DevFest '22 Hackathon
 
+Team Members: Griffin Newbold and Gabriel Trigo
+
 How To Use:
 Launch Application and enter the minimum and maximum values of N to test your code snippet against
 Then upload your python file, the filename can be whatever you desire but the code to analyze must 
